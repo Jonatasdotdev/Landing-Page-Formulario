@@ -6,25 +6,6 @@ Este é um projeto de landing page inspirado no tema de "Dracula". A página inc
 Você pode visualizar o display no meu perfil behance: https://www.behance.net/JonatasArielWebdev
 ## Estrutura do Projeto
 
-O projeto possui a seguinte estrutura:
-
-```
-/
-├── Components/
-│   ├── Images/
-│   │   └── kisspng-castlevania-symphony-of-the-night-dracula-alucard-vampire-5ad68bda7a7269.9690592415240099465016.png
-│   └── Fonts/
-│       ├── Ghotic.woff2
-│       ├── Ghotic.woff
-│       ├── OldLondon.ttf
-│       └── Olondon_.otf
-├── styles/
-│   ├── style.css
-│   ├── fonts.css
-│   └── media.css
-├── index.html
-└── README.md
-```
 
 ## Pré-requisitos
 
