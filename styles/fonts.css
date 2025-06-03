@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Ghoticfont';
+   src:url('../Components/Fonts/Ghotic.woff2') format('woff2'),
+   url('../Components/Fonts/Ghotic.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Goti';
+   src:url('../Components/Fonts/OldLondon.ttf') format('ttf'),
+   url('../Components/Fonts/Olondon_.otf') format('otf');
+
+   font-weight: normal;
+   font-style: normal;
+}
